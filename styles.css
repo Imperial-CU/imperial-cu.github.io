@@ -1,0 +1,12 @@
+body {
+font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+
+div.jumbotron {
+  background-color: #1C95BA;
+  color: #fff;
+}
+
+p.chorus {
+  font-style: italic;
+}
